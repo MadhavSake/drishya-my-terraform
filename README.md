@@ -1,1 +1,1 @@
-# drishya-my-terraform
+# gcp-drishya-infra
